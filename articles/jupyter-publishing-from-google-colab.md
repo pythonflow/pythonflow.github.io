@@ -18,3 +18,12 @@ plt.title("Hello World");
 
 ![png](assets/jupyter-publishing-from-google-colab_1_0.png)
 
+---
+
+![png](master/assets/jupyter-publishing-from-google-colab_1_0.png)
+
+---
+
+![png](https://github.com/pythonflow/pythonflow.github.io/blob/master/assets/jupyter-publishing-from-google-colab_1_0.png)
+
+
