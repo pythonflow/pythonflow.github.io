@@ -16,5 +16,4 @@ plt.title("Hello World");
 ```
 
 
-![png](jupyter-publishing-from-google-colab_files/jupyter-publishing-from-google-colab_1_0.png)
-
+![png](assets/jupyter-publishing-from-google-colab_1_0.png)
